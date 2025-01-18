@@ -6,6 +6,8 @@
 
 :man_cartwheeling: I'm a MSK certified physiotherapist from Portugal <br/>
 
+##
+
 <div style= "display: inline_block"><br/>
 
   <img height= "30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
