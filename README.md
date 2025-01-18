@@ -4,6 +4,8 @@
 :woman_technologist: I love everything Python and data <br/>
 :man_cartwheeling: I'm a MSK physiotherapist <br/>
 
+(https://github-readme-stats.vercel.app/api?username=ElianaFF)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ElianaFF/ElianaFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
