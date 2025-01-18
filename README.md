@@ -1,7 +1,7 @@
 ## Hi, I'm Eliana! 
 
 :woman_student: I'm currently getting my Masters Degree in Artificial Intelligence at Universidade de Coimbra <br/>
-:woman_technologist: I love everything Python and data <br/>
+:woman_technologist: I love learning everything Python and data <br/>
 :man_cartwheeling: I'm a MSK physiotherapist <br/>
 
 <div style= "display: inline_block"><br/>
