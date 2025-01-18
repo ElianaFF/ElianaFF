@@ -4,7 +4,21 @@
 :woman_technologist: I love everything Python and data <br/>
 :man_cartwheeling: I'm a MSK physiotherapist <br/>
 
-(https://github-readme-stats.vercel.app/api?username=ElianaFF)](https://github.com/anuraghazra/github-readme-stats)
+<div style= "display: inline_block"><br/>
+
+  <img height= "30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img height= "30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />        
+  <img height= "30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
+  <img height= "30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+  <img height = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+  <img height = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img height = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+</div>
+            
+          
+
 
 <!--
 **ElianaFF/ElianaFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
